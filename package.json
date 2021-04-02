@@ -1,7 +1,7 @@
 {
   "name": "pure-webpack-server",
   "version": "1.0.0",
-  "description": "pure-webpack-server",
+  "description": "",
   "main": "src/index.js",
   "scripts": {
     "dev": "webpack serve",
